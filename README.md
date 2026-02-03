@@ -1,23 +1,32 @@
-# Student Management System
+# 🎓 Student Management System (Java)
 
-A simple console-based Java application to manage student records.
+A console-based Student Management System built using Core Java.
 
-## Features
-- Add student
-- View all students
-- Search student by ID
-- Update student by ID
-- Delete student by ID
-- Input validation for age
+## 🚀 Features
+- Add Student
+- View All Students
+- Search Student by ID
+- Delete Student
+- Persistent File Storage (Data saved in students.txt)
+- Clean OOP Structure
 
-## Tech Used
+## 🛠 Tech Used
 - Java
-- OOP Concepts
-- ArrayList
+- OOP Principles
+- File Handling
 - Git & GitHub
 
-## Project Structure
-src/com/advait/sms
+## 📂 Project Structure
+src/com/advait/sms/
+ ├── Main.java
+ ├── Student.java
+ ├── StudentManager.java
 
-## Author
-Advait Maheshwari
+## 📌 Future Improvements
+- GUI Version
+- Database Integration (MySQL)
+- Login System
+
+---
+
+Built by Advait Maheshwari 💻
